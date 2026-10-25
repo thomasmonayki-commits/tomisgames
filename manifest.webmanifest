@@ -1,0 +1,17 @@
+{
+  "name": "Nordic Board – 3D-Quiz-Brettspiel",
+  "short_name": "Nordic Board",
+  "description": "Skandinavisches 3D-Quiz-Brettspiel mit 12 Spielarten – lokal oder live online.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F5F2EB",
+  "theme_color": "#C8A97E",
+  "lang": "de",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
